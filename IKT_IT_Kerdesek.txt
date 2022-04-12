@@ -1,0 +1,80 @@
+﻿1: Ezek közül melyik CISC vagy Complex instruction Set Computer típusú processzor? (b)
+a: DV
+b: ARM
+c: CAD
+b: x86
+
+
+2: Mit jelent a WMN? (b)
+a: Személyi hálózat
+b: Vezetéknélküli mesh hűlzózat
+c: Virtuális magánhálózat
+d: Nagyvárosi hálózat
+
+
+3: Hány bites az alhálózati maszk? (b)
+a: 48
+b: 32
+c: 16
+d: 24
+
+
+4: Mire szolgál az XMP beállítás a bios-ban? (b)
+a: Processzor automata túlhajtása (overclocking)
+b: Memória magasabb sebességének autómatikus beállítása
+c: Ilyen nem létezik
+d: Merevlemez optimalizálása
+
+
+5: Ha egy alaplap bios frissítése közben megáll a gép áramellátása mi történik? (c)
+a: Az alaplap biztonsági üzemmódba lép, úrjaindításkor visszaáll eredeti állapotába
+b: Úrjaindításkor a frissítés úrjakezdődik
+c: Komoly probléma - ki kell cserélni a bios chippet, bios flashback funkiót használni ha van vagy kuka az alaplap
+d: Processzorunkat tönkre véghatja
+
+
+6: Mi a teljesítmény jele, mértékegysége? (a)
+a: Jele P, mértékegysége Watt
+b: Jele I, mértékegysége Amper
+c: Jele R, mértékegysége Ohm
+d: Jele U, mértékegysége Volt
+
+
+
+
+7:Az alábbi eszközök közül melyiket NEM szerelünk szét, nem javítjuk biztonsági okok miatt? (két helyes válasz) (a, c)
+a: CRT TV/Monitor
+b: Videókártya
+c: Tápegység
+d: HDD
+
+
+
+
+
+
+
+
+
+
+8: Hány bites az IPv6 címtartómány? (a)
+a: 128
+b: 64
+c: 256
+d: 32
+
+
+
+
+9: Hogyan nézzük meg az IP-vel kapcsolatos infókat parancssorban windows 10-en? (c)
+a: ip a
+b: ipconfig -a
+c: ipconfig/all
+d: diskpart
+
+
+10: Mikor használhatunk egyenes kötésű UTP kábelt? (d)
+a: Ha mind a két oldalon gép van
+b: Ha mind a két oldalon switch van
+c: Mindegy
+d: Ha csak az egyik oldalon van switch
