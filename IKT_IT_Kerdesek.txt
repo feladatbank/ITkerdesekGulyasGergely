@@ -1,4 +1,4 @@
-﻿1: Ezek közül melyik CISC vagy Complex instruction Set Computer típusú processzor? (b)
+﻿1: Ezek közül melyik RISC vagy CISC típusú processzor? (b)
 a: DV
 b: ARM
 c: CAD
